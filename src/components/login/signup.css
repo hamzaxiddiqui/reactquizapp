@@ -1,0 +1,27 @@
+.signup-main{
+    height: 85vh;
+    width: 100vw;
+    /* background-color: aquamarine; */
+    position: relative;
+    /* top: 5vh; */
+   
+}
+.signup-inner{
+    position: relative;
+    top: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+   
+}
+.inputs{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: none;
+    outline: none;
+    margin-top: 20px;
+}
+.from-lab{
+font-size: 25px;
+}

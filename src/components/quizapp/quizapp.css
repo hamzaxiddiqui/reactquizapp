@@ -1,0 +1,40 @@
+.quiz-main{
+    height: 85vh;
+    width: 100vw;
+    position: relative;
+    /* top: 5vh; */
+    
+   
+}
+.quiz-content{
+    position: relative;
+    top: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+   
+}
+.inputs{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: none;
+    outline: none;
+    margin-top: 20px;
+}
+.from-lab{
+font-size: 25px;
+}
+a{text-decoration: none;
+}
+li{
+    cursor: pointer;
+    font-size: 30px;
+    list-style-image: url("./logo.jpg");
+    
+}
+li:hover{
+    color: aquamarine;
+    font-size: 35px;
+}
